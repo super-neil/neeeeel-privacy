@@ -1,0 +1,47 @@
+Privacy Policy for Mymoires
+Last Updated: July 7, 2025
+
+Welcome to Mymoires. This Privacy Policy explains how information is collected, used, and protected when you use our mobile application ("App"). Your privacy is critically important to us.
+
+1. Information We Collect
+To provide our service, we may collect the following types of information:
+
+Account Information: If you choose to sign up, we may collect basic profile information provided by third-party services like Google or Apple, such as your name and email address, to create and manage your Mymoires account.
+Voice Recordings & Transcriptions: The core function of our App involves you recording your voice. This audio is processed to create a text transcription. The audio is captured by your device's microphone and processed by its native speech recognition service.
+Refined Mymoires: The raw text transcription is sent to our secure backend, which uses a third-party Large Language Model (LLM) service (Amazon Bedrock) to generate a refined, narrative version of your memory.
+User-Generated Content: Any edits or changes you make to your saved mymoires are stored within the App on your device.
+2. How We Use Your Information
+Your information is used exclusively to provide and improve the App's functionality:
+
+To create and secure your user account and manage subscriptions.
+To convert your spoken memories into written text via your device's native speech-to-text service.
+To securely send the raw transcription to our backend service for AI-powered refinement.
+To display your raw and refined mymoires within the App.
+To allow you to save, edit, delete, and share your mymoires at your discretion.
+We do not sell your personal data. The content of your mymoires is not used for advertising.
+
+3. Data Storage and Security
+Your created mymoires (both raw and refined versions) are stored locally on your device. For the AI refinement process, the raw transcription text is sent securely over an encrypted connection (HTTPS) to our backend service (hosted on AWS) and is not stored there long-term after processing.
+
+4. Third-Party Services
+Mymoires relies on the following third-party services to function:
+
+Device Speech Recognition: Your audio is processed by the default speech recognition service on your device (provided by Apple on iOS or Google on Android). Their use of data is governed by their respective privacy policies.
+Amazon Web Services (AWS): Our backend, including the secure API and the AI refinement logic, is hosted on AWS. This includes the use of Amazon Bedrock to access Large Language Models.
+App Stores: If you choose to subscribe, all payment information is handled securely by the Apple App Store or Google Play Store. We do not see or store your credit card information.
+5. Permissions
+For the App to function correctly, we require access to your device's microphone. We will request this permission before you make your first recording. We only access the microphone when you are actively recording a new mymoire.
+
+6. Your Rights and Choices
+You have control over your data within the App. You can view, edit, and permanently delete any of your saved mymoires at any time directly from the App.
+
+7. Children's Privacy
+Mymoires is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children.
+
+8. Changes to This Privacy Policy
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy within the App or on our website. You are advised to review this Privacy Policy periodically for any changes.
+
+9. Contact Us
+If you have any questions about this Privacy Policy, please feel free to contact us.
+
+Developed by Neeeel
