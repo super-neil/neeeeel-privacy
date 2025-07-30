@@ -1,0 +1,39 @@
+Privacy Policy for Gojiraball
+Effective Date: July 30, 2025
+
+Thank you for playing Gojiraball. This Privacy Policy describes how your information is collected, used, and shared when you play our game.
+
+1. Information We Collect
+Gojiraball is designed to be a simple, fun game that respects your privacy. We collect a very limited amount of information, and only when you choose to provide it.
+
+The only time we collect information is when you achieve a high score and choose to submit it to the global leaderboard. The information collected is:
+
+- Your Initials: The three-letter initials you voluntarily enter.
+- Your Score: The final score you achieved in that game session.
+- Player Character Used: The name of the football player you used to achieve the high score (e.g., "Baggio", "Klose").
+
+We do not collect any other personal information, such as your name, email address, location, device ID, or any other data from your mobile device.
+
+2. How We Use Your Information
+The information we collect is used for the sole purpose of displaying it on the global leaderboard within the Gojiraball app. This allows you and other players to see the top scores achieved in the game.
+
+Your information is not used for advertising, marketing, analytics, or any other purpose.
+
+3. Data Storage and Sharing
+Storage: Your leaderboard data (initials, score, player) is stored securely on Amazon Web Services (AWS) servers. We take reasonable measures to protect this information.
+
+Sharing: The leaderboard data is, by its nature, public within the Gojiraball app and is visible to all other players. We do not sell or share this information with any other third parties for their own use.
+
+4. Your Choices and Rights
+Submitting your score to the leaderboard is completely optional. If you achieve a high score, you can simply choose not to enter your initials.
+
+If you have submitted a score and wish to have it removed from the leaderboard, please contact us at the email address below, and we will remove it.
+
+5. Children's Privacy
+We do not knowingly collect any personal information from children under the age of 13. If you are a parent or guardian and you believe that your child has provided us with information for the leaderboard, please contact us so we can delete it from our records.
+
+6. Changes to This Privacy Policy
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy within the app or on its store listing page.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us at: [Your Email Address Here]
