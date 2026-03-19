@@ -14,7 +14,7 @@ Applies to: Forge & Fortress (iOS application, com.forgeandfortress.app)
 Forge & Fortress is developed and published by Neeeeel Corp ("we", "us", "our").
 
 Website:   www.neeeeel.com
-Contact:   privacy@neeeeel.com
+Contact:   info@neeeeel.com
 
 If you have any questions about this Privacy Policy or how we handle your data,
 please contact us using the details above.
