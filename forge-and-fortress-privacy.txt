@@ -1,0 +1,283 @@
+================================================================================
+                    FORGE & FORTRESS — PRIVACY POLICY
+                             Neeeeel Corp
+                         www.neeeeel.com
+================================================================================
+
+Last updated: March 2026
+Applies to: Forge & Fortress (iOS application, com.forgeandfortress.app)
+
+--------------------------------------------------------------------------------
+1. WHO WE ARE
+--------------------------------------------------------------------------------
+
+Forge & Fortress is developed and published by Neeeeel Corp ("we", "us", "our").
+
+Website:   www.neeeeel.com
+Contact:   privacy@neeeeel.com
+
+If you have any questions about this Privacy Policy or how we handle your data,
+please contact us using the details above.
+
+--------------------------------------------------------------------------------
+2. OVERVIEW
+--------------------------------------------------------------------------------
+
+We take your privacy seriously. Forge & Fortress is a free game with no
+advertisements and no in-app purchases. We do not sell your data, we do not
+share it with advertisers, and we collect only the absolute minimum information
+needed to operate the global leaderboard feature.
+
+In short:
+  - We do NOT collect your name, email address, phone number, or any account
+    information.
+  - We do NOT track your location.
+  - We do NOT use advertising identifiers (IDFA or similar).
+  - We do NOT share or sell any data to third parties for commercial purposes.
+  - The only information we ever receive is a player-chosen display name and a
+    game score, submitted voluntarily at the end of a game session.
+
+--------------------------------------------------------------------------------
+3. INFORMATION WE COLLECT AND WHY
+--------------------------------------------------------------------------------
+
+3.1  LEADERBOARD DATA (voluntary)
+
+When a game session ends, you are given the option to submit your score to the
+global leaderboard. If you choose to do so, we collect:
+
+  a) Display name
+     - A name of your own choosing, typed by you at the point of submission.
+     - This does not need to be your real name. You may use any pseudonym.
+     - This name is displayed publicly on the in-game leaderboard.
+
+  b) High score
+     - Your numerical score from that game session.
+     - Displayed publicly alongside your chosen display name on the leaderboard.
+
+Leaderboard submission is entirely optional. The game is fully playable without
+submitting a score. If you close or skip the submission prompt, nothing is sent.
+
+3.2  TECHNICAL / NETWORK DATA
+
+When your device connects to our leaderboard server to submit or retrieve scores,
+our hosting infrastructure may automatically log:
+
+  - IP address (used transiently for the network request; not stored against your
+    leaderboard entry)
+  - Date and time of the request
+  - Device operating system type (iOS) and app version
+
+This is standard server log data retained for up to 30 days for security and
+troubleshooting purposes only. It is not linked to your display name or score.
+
+3.3  WHAT WE DO NOT COLLECT
+
+We do not collect, and have no access to:
+  - Your real name, email address, or any personal identifier
+  - Apple ID or Game Center identity
+  - Device identifiers (IDFA, IDFV, serial number)
+  - Location data (GPS or approximate)
+  - Health or fitness data
+  - Contacts, messages, photos, or camera/microphone access
+  - Browsing or search history
+  - Financial information
+  - Any data from other apps on your device
+
+--------------------------------------------------------------------------------
+4. HOW WE USE YOUR INFORMATION
+--------------------------------------------------------------------------------
+
+The data described in Section 3 is used solely for the following purpose:
+
+  - To display and maintain the global in-game leaderboard, so players can see
+    how their scores compare with others.
+
+We do not use your data for:
+  - Marketing or advertising
+  - Profiling or behavioural analysis
+  - Selling or licensing to third parties
+  - Any purpose other than operating the leaderboard
+
+--------------------------------------------------------------------------------
+5. LEGAL BASIS FOR PROCESSING (GDPR — EEA/UK USERS)
+--------------------------------------------------------------------------------
+
+If you are located in the European Economic Area (EEA) or the United Kingdom,
+we rely on the following legal bases under the General Data Protection Regulation
+(GDPR) / UK GDPR:
+
+  - Legitimate Interests (Article 6(1)(f)):
+    For transient server log data, to maintain the security and performance of
+    our leaderboard service.
+
+  - Consent (Article 6(1)(a)):
+    For leaderboard name and score submission, which is a voluntary act you
+    initiate by tapping the submit button. You can withdraw this consent at any
+    time by requesting deletion of your entry (see Section 8).
+
+--------------------------------------------------------------------------------
+6. DATA STORAGE AND SECURITY
+--------------------------------------------------------------------------------
+
+6.1  Where data is stored
+
+Leaderboard data (display name and scores) is stored on servers hosted by
+Neeeeel Corp or its cloud infrastructure provider. Data may be stored in the
+United Kingdom, the European Union, or the United States depending on our
+hosting configuration at the time.
+
+If data is transferred outside your jurisdiction, we ensure appropriate
+safeguards are in place in accordance with applicable data protection law (for
+EEA/UK users: Standard Contractual Clauses or equivalent mechanisms).
+
+6.2  Security measures
+
+We implement industry-standard technical measures to protect data in transit
+and at rest, including:
+  - HTTPS/TLS encryption for all data transmitted between the app and our servers
+  - Access controls limiting who within Neeeeel Corp can access leaderboard data
+
+No method of transmission over the internet or electronic storage is 100%
+secure. While we take reasonable precautions, we cannot guarantee absolute
+security.
+
+--------------------------------------------------------------------------------
+7. DATA RETENTION
+--------------------------------------------------------------------------------
+
+  - Leaderboard entries (display name + score) are retained for as long as the
+    Forge & Fortress leaderboard service is active, or until you request
+    deletion (see Section 8).
+
+  - Server log data is retained for a maximum of 30 days and then deleted.
+
+  - If the game is discontinued, all leaderboard data will be deleted within
+    90 days of the service being taken offline.
+
+--------------------------------------------------------------------------------
+8. YOUR RIGHTS AND CHOICES
+--------------------------------------------------------------------------------
+
+Depending on where you live, you may have the following rights regarding your
+data. To exercise any of these rights, please contact: privacy@neeeeel.com
+
+8.1  Right to Access
+     You may request a copy of any data we hold about your leaderboard entry.
+
+8.2  Right to Deletion / Erasure ("Right to be Forgotten")
+     You may request that your leaderboard entry (display name and score) be
+     deleted. Because no account or identifier is created, please include the
+     display name and approximate score you submitted so we can locate your
+     entry.
+
+8.3  Right to Rectification
+     You may request that an inaccurate entry be corrected.
+
+8.4  Right to Object / Restrict Processing
+     You may object to our processing of your data. In most cases this means
+     requesting deletion of your leaderboard entry.
+
+8.5  Right to Data Portability
+     You may request your data in a machine-readable format.
+
+8.6  Right to Withdraw Consent
+     As leaderboard submission is voluntary, you can simply choose not to
+     submit. For previously submitted entries, contact us for deletion.
+
+8.7  California Residents (CCPA/CPRA)
+     Under the California Consumer Privacy Act, you have the right to know
+     what personal information we collect, to request deletion, and to opt out
+     of the sale of personal information. We do not sell personal information.
+     To exercise your rights, contact: privacy@neeeeel.com
+
+8.8  Response Time
+     We will respond to all valid requests within 30 days (or within the
+     timeframe required by applicable law).
+
+--------------------------------------------------------------------------------
+9. CHILDREN'S PRIVACY
+--------------------------------------------------------------------------------
+
+Forge & Fortress is rated 9+ on the Apple App Store. We do not knowingly
+collect personal information from children under the age of 13 (or the
+applicable age of digital consent in your jurisdiction, e.g. 16 in some EU
+member states).
+
+The leaderboard submission feature requires the user to voluntarily type and
+submit a display name. We recommend that parents and guardians supervise
+children's use of optional online features, including leaderboard submission.
+
+If you believe a child under 13 has submitted information to our leaderboard
+without appropriate parental consent, please contact us immediately at
+privacy@neeeeel.com and we will promptly delete the relevant entry.
+
+We do not use the app to direct targeted advertising at children, and we do
+not collect data from children for commercial purposes.
+
+--------------------------------------------------------------------------------
+10. THIRD-PARTY SERVICES
+--------------------------------------------------------------------------------
+
+Forge & Fortress does not integrate third-party advertising SDKs, analytics
+platforms (e.g. Firebase, Mixpanel, Amplitude), or social media SDKs.
+
+The only external network communication the app makes is to Neeeeel Corp's own
+leaderboard API endpoint.
+
+Phaser 3 (the game engine), Vite (build tool), and Capacitor (native wrapper)
+are open-source libraries used to build the app. They do not independently
+collect or transmit user data.
+
+--------------------------------------------------------------------------------
+11. APPLE APP STORE
+--------------------------------------------------------------------------------
+
+Forge & Fortress is distributed via the Apple App Store. Apple may collect
+certain data as part of the App Store experience (e.g. download statistics,
+crash reports via TestFlight). This data is governed by Apple's own Privacy
+Policy, available at: https://www.apple.com/legal/privacy/
+
+We receive only aggregated, anonymised analytics from Apple (e.g. total
+download counts) that cannot be used to identify individual users.
+
+--------------------------------------------------------------------------------
+12. CHANGES TO THIS PRIVACY POLICY
+--------------------------------------------------------------------------------
+
+We may update this Privacy Policy from time to time to reflect changes in the
+app, applicable law, or our data practices.
+
+When we make changes:
+  - The "Last updated" date at the top of this document will be revised.
+  - Material changes will be notified via an update note in the App Store.
+  - The current version will always be available at:
+    https://www.neeeeel.com/privacy
+
+Continued use of the app after a policy update constitutes acceptance of the
+revised policy.
+
+--------------------------------------------------------------------------------
+13. CONTACT US
+--------------------------------------------------------------------------------
+
+If you have any questions, concerns, or requests regarding this Privacy Policy
+or the way Neeeeel Corp handles your data, please contact us:
+
+  Email:    privacy@neeeeel.com
+  Website:  www.neeeeel.com
+  Address:  Neeeeel Corp
+            [Your registered business address]
+            [City, Postcode/ZIP]
+            [Country]
+
+We aim to respond to all privacy-related enquiries within 5 business days.
+
+EEA/UK users also have the right to lodge a complaint with their local
+supervisory authority. In the UK this is the Information Commissioner's Office
+(ICO): https://ico.org.uk. In the EU, contact your national data protection
+authority.
+
+================================================================================
+                 © 2025 Neeeeel Corp | www.neeeeel.com
+================================================================================
